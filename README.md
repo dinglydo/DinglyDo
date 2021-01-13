@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinglydo&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrojjeh&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dinglydo&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amrojjeh&show_icons=true&theme=radical)
 
 <!--
-**dinglydo/DinglyDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**amrojjeh/amrojjeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
