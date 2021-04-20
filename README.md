@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Website: https://amrojjeh.github.io/
+[Website](https://amrojjeh.github.io/)
 
 ## Highlight Articles 📃
 - [Problem with AP CS](https://medium.com/codex/the-problem-with-ap-cs-ad095f54960b?sk=2bc224fc8eb6fed6f072c97b4cce018c): A short rant on AP CS and other intro classes.
@@ -17,8 +17,9 @@ Website: https://amrojjeh.github.io/
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Calculator&theme=onedark)](https://github.com/amrojjeh/Calculator)
 [![Discord Deception Games](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Discord-Deception-Games&theme=onedark)](https://github.com/amrojjeh/Discord-Deception-Games)
 
+
+## Other
+[Older website](https://amrojjeh.github.io/Second-Site) and [Even older website](https://amrojjeh.github.io/First-Site)
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amrojjeh&show_icons=true&theme=onedark)
 
-You made it to the end. Here's my old stuff:
-
-[Older website](https://amrojjeh.github.io/Second-Site) and [Even older website](https://amrojjeh.github.io/First-Site)
