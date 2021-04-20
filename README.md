@@ -14,8 +14,8 @@ Website: https://amrojjeh.github.io/
 [![Zig To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Zig-to-do-list&theme=onedark)](https://github.com/amrojjeh/Zig-to-do-list)
 
 ## Project Graveyard 💀
-- [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Calculator&theme=onedark)](https://github.com/amrojjeh/Calculator)
-- [![Discord Deception Games](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Discord-Deception-Games&theme=onedark)](https://github.com/amrojjeh/Discord-Deception-Games)
+[![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Calculator&theme=onedark)](https://github.com/amrojjeh/Calculator)
+[![Discord Deception Games](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Discord-Deception-Games&theme=onedark)](https://github.com/amrojjeh/Discord-Deception-Games)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amrojjeh&show_icons=true&theme=onedark)
 
