@@ -21,6 +21,4 @@ Website: https://amrojjeh.github.io/
 
 You made it to the end. Here's my old stuff:
 
-Older website: https://amrojjeh.github.io/Second-Site
-Even older website: https://amrojjeh.github.io/First-Site
-
+[Older website](https://amrojjeh.github.io/Second-Site) and [Even older website](https://amrojjeh.github.io/First-Site)
