@@ -12,6 +12,7 @@
 
 ## Project Line Up ⚡
 [![Zig To-Do List](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Zig-to-do-list&theme=onedark)](https://github.com/amrojjeh/Zig-to-do-list)
+[![Secret Hitler Bot](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=SecretHitlerBot&theme=onedark)](https://github.com/amrojjeh/SecretHitlerBot)
 
 ## Project Graveyard 💀
 [![Calculator](https://github-readme-stats.vercel.app/api/pin/?username=amrojjeh&repo=Calculator&theme=onedark)](https://github.com/amrojjeh/Calculator)
